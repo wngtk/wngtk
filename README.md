@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wngtk
 - 👀 I’m interested in System Programming
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
