@@ -6,9 +6,9 @@
 - ✏️  C / C++ / Python / JavaScript
 - ⚒️ Windows 11 / Ubuntu / VS Code / Microsoft Edge
 
-### Coding time in the last year (Since Dec 28 2023)
+### 📊 Coding time
 
-[![Wngtk's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@wngtk&langs_count=14&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Wngtk's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@wngtk&langs_count=14&hide_title=false&layout=compact&custom_title=WakaTime%20Stats%20(Since%20Dec%2028%202023))](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 wngtk/wngtk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
