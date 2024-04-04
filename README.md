@@ -2,7 +2,7 @@
 
 - ✨ Python by day, Rust by night
 - ✏️  C / C++ / Python / JavaScript
-- :hammer_and_pick: Windows 11 / Ubuntu / VS Code / Microsoft Edge
+- ⚒️ Windows 11 / Ubuntu / VS Code / Microsoft Edge
 
 ### Coding time in the last year (Since Dec 28 2023)
 
