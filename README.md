@@ -2,7 +2,7 @@
 
 > 锲而不舍，金石可镂。
 
-- ✨ Go by day, Rust by night
+- ✨ Python by day, Rust by night
 - ✏️  C / C++ / Python / JavaScript
 - ⚒️ Windows 11 / Ubuntu / VS Code / Microsoft Edge
 
