@@ -8,7 +8,7 @@
 
 ### 📊 Coding time
 
-[![Wngtk's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@wngtk&layout=compact&custom_title=WakaTime%20Stats%20(Since%20Dec%2028%202023))](https://wakatime.com/@wngtk)
+[![Wngtk's WakaTime stats](https://github-readme-stats-arvins-projects-41589a85.vercel.app/api/wakatime?username=@wngtk)](https://wakatime.com/@wngtk)
 
 <!---
 wngtk/wngtk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
