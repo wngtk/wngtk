@@ -2,7 +2,7 @@
 
 > 锲而不舍，金石可镂。
 
-- ✨ JavaScript by day, Rust by night
+- ✨ TypeScript by day, Rust by night
 - ✏️  C / TypeScript / Python / Rust
 - ⚒️ Windows 11 / Ubuntu / VS Code / Microsoft Edge
 
