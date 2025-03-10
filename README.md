@@ -1,9 +1,7 @@
 ### I’m wngtk 👋
 
-> 锲而不舍，金石可镂。
-
-- ✨ TypeScript by day, Rust by night
-- ✏️  C / TypeScript / Python / Rust
+- ✨ Python by day, Go by night
+- ✏️ C / Python / Go / TypeScript
 - ⚒️ Windows 11 / Ubuntu / VS Code / Microsoft Edge
 
 ### 📊 Coding time
